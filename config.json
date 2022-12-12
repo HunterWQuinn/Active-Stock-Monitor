@@ -1,0 +1,20 @@
+{
+  "text": true,
+  "phone": "9413030136",
+  "message": "Hello , This is your daily stock alert we have identified your stock has reached the following threshold:",
+
+  "stock_data": {
+    "TSLA":
+    {
+      "price purchased": 0,
+      "notify at": 6.44
+
+    },
+    "MSFT":
+    {
+      "price purchased": 0,
+      "notify at": 6.44
+    }
+  }
+
+}
